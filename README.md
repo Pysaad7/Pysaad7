@@ -21,10 +21,6 @@ I am a passionate Python Developer focused on building efficient management syst
 
 ---
 
-### 📊 GitHub Stats:
-![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pysaad7&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pysaad7&layout=compact&theme=radical)
-
 ---
 
 ### 📫 Connect with me:
