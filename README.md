@@ -1,4 +1,4 @@
-# Hi there, I'm Saad Abdullah 👋
+# Hi there, I'm Mubashir Riaz 👋
 
 ### 🐍 Python Developer | Backend Enthusiast
 
